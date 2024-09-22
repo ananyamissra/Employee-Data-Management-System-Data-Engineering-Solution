@@ -1,6 +1,4 @@
 # Employee Data Management System - Data Engineering Solution
-Here’s a detailed README for your Employee Data Management System project. This README will give potential users or reviewers a clear understanding of your project’s purpose, setup, and usage.
-
 
 ## 1. Project Overview
 
